@@ -6,8 +6,8 @@ items:
   kind: page
   children: []
 - title: Aides financières
-  target: ''
-  kind: blank
+  target: "/les-aides-qui-tentoure/"
+  kind: page
   children: []
 - title: Entreprise et l'école
   target: ''
