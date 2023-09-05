@@ -10,7 +10,7 @@ items:
   kind: page
   children: []
 - title: Entreprise et l'école
-  target: ''
-  kind: blank
+  target: "/entreprise-et-ecole/"
+  kind: page
   children: []
 
