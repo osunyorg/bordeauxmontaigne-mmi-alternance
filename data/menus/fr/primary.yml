@@ -2,8 +2,8 @@
 title: Menu principal
 items:
 - title: Recherche d'alternance
-  target: ''
-  kind: blank
+  target: "/la-recherche-dalternance/"
+  kind: page
   children: []
 - title: Aides financières
   target: ''
