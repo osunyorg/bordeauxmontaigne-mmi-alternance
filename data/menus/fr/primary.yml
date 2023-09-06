@@ -13,4 +13,8 @@ items:
   target: "/entreprise-et-ecole/"
   kind: page
   children: []
+- title: Le Portail de l'Alternance
+  target: https://www.alternance.emploi.gouv.fr/accueil
+  kind: url
+  children: []
 
