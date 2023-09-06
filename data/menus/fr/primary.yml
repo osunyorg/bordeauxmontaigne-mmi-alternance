@@ -17,8 +17,4 @@ items:
   target: https://www.alternance.emploi.gouv.fr/accueil
   kind: url
   children: []
-- title: Témoignages MMI
-  target: "/"
-  kind: page
-  children: []
 
