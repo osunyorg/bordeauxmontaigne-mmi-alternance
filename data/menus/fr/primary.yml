@@ -5,7 +5,7 @@ items:
   target: "/la-recherche-dalternance/"
   kind: page
   children: []
-- title: Les aides qui t'entoure
+- title: Les aides autour de vous
   target: "/les-aides-qui-tentoure/"
   kind: page
   children: []
