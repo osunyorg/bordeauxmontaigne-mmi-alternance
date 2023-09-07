@@ -1,12 +1,12 @@
 ---
 title: Informations légales
 items:
-- title: Plan du site
-  target: "/plan-du-site/"
-  kind: page
-  children: []
 - title: Mentions légales
   target: https://www.mmibordeaux.com/mentions-legales
   kind: url
+  children: []
+- title: Plan du site
+  target: "/plan-du-site/"
+  kind: page
   children: []
 
