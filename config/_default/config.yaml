@@ -4,5 +4,3 @@ enableRobotsTXT: true
 removePathAccents: true
 params:
   plausible: alternance.mmibordeaux.com
-  search:
-    active: true
