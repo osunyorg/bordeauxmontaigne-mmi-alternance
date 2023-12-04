@@ -13,8 +13,8 @@ items:
   target: "/entreprise-et-ecole/"
   kind: page
   children: []
-- title: Agenda
-  target: "/agenda/"
+- title: Alter'MMI
+  target: "/altermmi/"
   kind: page
   children: []
 - title: Le Portail de l'Alternance
