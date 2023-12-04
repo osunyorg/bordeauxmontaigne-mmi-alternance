@@ -17,4 +17,8 @@ items:
   target: https://www.alternance.emploi.gouv.fr/accueil
   kind: url
   children: []
+- title: Agenda
+  target: "/agenda/"
+  kind: page
+  children: []
 
