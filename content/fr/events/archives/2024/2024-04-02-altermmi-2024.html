@@ -81,6 +81,8 @@ contents:
     template: persons
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -99,6 +101,8 @@ contents:
     template: files
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -108,15 +112,23 @@ contents:
       files:
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Programme
-    slug: "programme"
-    position: 1
-    rank: 2
+    slug: >-
+      programme
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: timeline
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -165,7 +177,6 @@ contents:
 
           text: >-
             <p>Fin de l'événement</p>
-
 
 
 

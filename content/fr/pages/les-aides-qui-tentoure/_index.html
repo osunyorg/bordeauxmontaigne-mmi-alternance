@@ -55,13 +55,15 @@ header_cta:
   target: ""
   external: false
 contents_reading_time:
-  seconds: 96
+  seconds: 100
   text: >-
     2 minutes
 contents:
   - kind: block
     template: key_figures
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -75,7 +77,7 @@ contents:
             €
 
           description: >-
-            <p>Salaire net médian d'un apprenti par mois</p>
+            Salaire net médian d'un apprenti par mois
 
 
         - number: 500
@@ -83,21 +85,29 @@ contents:
             €
 
           description: >-
-            <p>Aide financière pour le permis de conduire</p>
+            Aide financière pour le permis de conduire
 
 
 
 
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Le salaire et ce qui l'entoure
-    slug: "le-salaire-et-ce-qui-l-entoure"
-    position: 1
-    rank: 2
+    slug: >-
+      le-salaire-et-ce-qui-l-entoure
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Focus sur le salaire
+    slug: >-
+      focus-sur-le-salaire
     ranks:
       self: 3
     data:
@@ -120,6 +130,8 @@ contents:
   - kind: block
     template: chapter
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -144,6 +156,8 @@ contents:
     template: image
     title: >-
       
+    slug: >-
+      
     ranks:
       self: false
     data:
@@ -162,17 +176,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Les aides financières
-    slug: "les-aides-financieres"
-    position: 2
-    rank: 2
+    slug: >-
+      les-aides-financieres
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: chapter
     title: >-
       Focus sur les aides financières
+    slug: >-
+      focus-sur-les-aides-financieres
     ranks:
       self: 3
     data:
@@ -192,17 +213,24 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Ressources documentaires
-    slug: "ressources-documentaires"
-    position: 3
-    rank: 2
+    slug: >-
+      ressources-documentaires
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: files
     title: >-
       Ressources
+    slug: >-
+      ressources
     ranks:
       self: 3
     data:
@@ -228,6 +256,8 @@ contents:
     template: pages
     title: >-
       Pour faire suite à vos démarches
+    slug: >-
+      pour-faire-suite-a-vos-demarches
     ranks:
       self: 3
       children: 4
@@ -247,7 +277,6 @@ contents:
           slug: "entreprise-et-ecole"
           file: "pages/entreprise-et-ecole/_index.html"
           external: false
-
 
 
 

@@ -75,15 +75,23 @@ contents_reading_time:
   text: >-
     moins d'une minute
 contents:
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Photos de l'événement
-    slug: "photos-de-l-evenement"
-    position: 1
-    rank: 2
+    slug: >-
+      photos-de-l-evenement
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: gallery
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -119,16 +127,23 @@ contents:
 
 
 
-
-  - kind: heading
+  - kind: block
+    template: title
     title: >-
       Médias
-    slug: "medias"
-    position: 2
-    rank: 2
+    slug: >-
+      medias
+    ranks:
+      self: 2
+    data:
+      layout: classic
+
+
   - kind: block
     template: files
     title: >-
+      
+    slug: >-
       
     ranks:
       self: false
@@ -148,7 +163,6 @@ contents:
 
           title: >-
             Programme
-
 
 
 
