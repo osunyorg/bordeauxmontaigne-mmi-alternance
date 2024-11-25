@@ -5,18 +5,22 @@ items:
   target: "/la-recherche-dalternance/"
   kind: page
   children: []
+  file: content/fr/pages/la-recherche-dalternance/_index.html
 - title: Les aides autour de vous
   target: "/les-aides-qui-tentoure/"
   kind: page
   children: []
+  file: content/fr/pages/les-aides-qui-tentoure/_index.html
 - title: Entreprise et l'école
   target: "/entreprise-et-ecole/"
   kind: page
   children: []
+  file: content/fr/pages/entreprise-et-ecole/_index.html
 - title: Alter'MMI
   target: "/altermmi/"
   kind: page
   children: []
+  file: content/fr/pages/altermmi/_index.html
 - title: Le Portail de l'Alternance
   target: https://www.alternance.emploi.gouv.fr/accueil
   kind: url
