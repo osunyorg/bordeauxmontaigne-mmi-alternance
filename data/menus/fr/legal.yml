@@ -9,5 +9,6 @@ items:
   target: "/plan-du-site/"
   kind: page
   children: []
+  path: "/pages/plan-du-site"
   file: content/fr/pages/plan-du-site/_index.html
 
