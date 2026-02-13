@@ -2,36 +2,46 @@
 title: Menu principal
 items:
 - title: Recherche d'alternance
+  slug: recherche-d-alternance
   target: "/la-recherche-dalternance/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/la-recherche-dalternance"
   file: content/fr/pages/la-recherche-dalternance/_index.html
 - title: Les aides autour de vous
+  slug: les-aides-autour-de-vous
   target: "/les-aides-qui-tentoure/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/les-aides-qui-tentoure"
   file: content/fr/pages/les-aides-qui-tentoure/_index.html
 - title: Entreprise et l'école
+  slug: entreprise-et-l-ecole
   target: "/entreprise-et-ecole/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/entreprise-et-ecole"
   file: content/fr/pages/entreprise-et-ecole/_index.html
 - title: Alter'MMI
+  slug: alter-mmi
   target: "/altermmi/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/pages/altermmi"
   file: content/fr/pages/altermmi/_index.html
 - title: Le Portail de l'Alternance
+  slug: le-portail-de-l-alternance
   target: https://www.alternance.emploi.gouv.fr/accueil
   kind: url
   new_tab: true
   children: []
+  descendants_targets: []
 
