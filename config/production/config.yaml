@@ -7,6 +7,11 @@ osuny:
   website:
     id: fbf04dbd-6c62-4a06-9f84-0ed92345062f
 
+## PARAMS
+params:
+  _merge: deep
+  plausible: "alternance.mmibordeaux.com"
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
