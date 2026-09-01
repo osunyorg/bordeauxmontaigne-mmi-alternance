@@ -67,6 +67,10 @@ from = "/agenda/2024-1/09/index.html"
 to = "/agenda/2024/09/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/remun-2023-05-01-remuneration-apppdf/"
+
+[[redirects]]
 from = "/agenda/2024-1/11/index.html"
 to = "/agenda/2024/11/"
 
